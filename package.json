@@ -24,7 +24,7 @@
     "lodash.pick": "^4.4.0",
     "lodash.pickby": "^4.6.0",
     "lodash.some": "^4.6.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-lottie": "^1.2.3",
